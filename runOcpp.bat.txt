@@ -1,0 +1,2 @@
+cd\Users\evelyn.gan\Documents\test plan\ver2
+java -jar OcppServer-lib_ver2.jar
