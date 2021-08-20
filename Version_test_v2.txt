@@ -1,1 +1,2 @@
-"This is another test of version control"
+Test of adding new branch
+To see if the change can be updated in GitHub Desktop
