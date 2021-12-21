@@ -1,1 +1,2 @@
 "This is another test of version control"
+"We want to test the github desktop functions"
